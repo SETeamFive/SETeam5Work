@@ -1,3 +1,7 @@
+*확인용 팀코드 : 38245
+
+### Use case Description
+
 **회원가입하기**
 
 | Actor Action | System Response |
